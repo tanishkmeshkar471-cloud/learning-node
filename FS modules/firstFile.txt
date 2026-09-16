@@ -1,0 +1,1 @@
+this is new file created by fs module  Another text Another text Another text
