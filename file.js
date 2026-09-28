@@ -3,3 +3,9 @@ function file(){
     
 }
 module.exports =file
+
+function file2(){
+    console.log("hello");
+    
+}
+module.exports=file2
